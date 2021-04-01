@@ -1,5 +1,6 @@
 # Live Website
-[link](https://custom-trello.netlify.app/). 
+<a href="https://custom-trello.netlify.app/" target="_blank">link</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
